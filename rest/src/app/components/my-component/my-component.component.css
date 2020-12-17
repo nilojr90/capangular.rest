@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 600px;
+  min-width: 600px;
+  width: 100%;
+  height: 100%;
+  /* background-color: darkgray; */
+  background: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
+}
+
+.quote {
+  min-width: 200px;
+  min-height: 100px;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+}
