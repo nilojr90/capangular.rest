@@ -2,7 +2,7 @@
 
 Este projeto exibe uma frase do rapper, cantor, compositor, produtor musical e estilista Kanye West, cada vez que a pagina é carregada.
 
-![print](C:\Users\Nilson\Documents\GitHub\capangular.rest\print.PNG)
+![print](.\print.PNG)
 
 As frases são obtidas consumindo a API: 🌊https://kanye.rest/. 
 
